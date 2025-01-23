@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdemolaSmart12
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning frontend 
+- 🌱 I’m a fullstack developer  
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me 08135705901
 - 😄 Pronouns: ...
